@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kalvaanupriya145/Leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/kalvaanupriya145/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kalvaanupriya145/Leetcode/tree/master/0205-isomorphic-strings) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/kalvaanupriya145/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Trie
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/kalvaanupriya145/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kalvaanupriya145/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/kalvaanupriya145/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Backtracking
 |  |
 | ------- |
@@ -81,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/kalvaanupriya145/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/kalvaanupriya145/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/kalvaanupriya145/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 <!---LeetCode Topics End-->
