@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kalvaanupriya145/Leetcode/tree/master/0049-group-anagrams) |
 | [0368-largest-divisible-subset](https://github.com/kalvaanupriya145/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/kalvaanupriya145/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0797-rabbits-in-forest](https://github.com/kalvaanupriya145/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1656-count-good-triplets](https://github.com/kalvaanupriya145/Leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kalvaanupriya145/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/kalvaanupriya145/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/kalvaanupriya145/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/kalvaanupriya145/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0797-rabbits-in-forest](https://github.com/kalvaanupriya145/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kalvaanupriya145/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/kalvaanupriya145/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/kalvaanupriya145/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/kalvaanupriya145/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/kalvaanupriya145/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kalvaanupriya145/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/kalvaanupriya145/Leetcode/tree/master/2050-count-good-numbers) |
 | [2998-count-symmetric-integers](https://github.com/kalvaanupriya145/Leetcode/tree/master/2998-count-symmetric-integers) |
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2626-count-the-number-of-good-subarrays](https://github.com/kalvaanupriya145/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+## Greedy
+|  |
+| ------- |
+| [0797-rabbits-in-forest](https://github.com/kalvaanupriya145/Leetcode/tree/master/0797-rabbits-in-forest) |
 <!---LeetCode Topics End-->
