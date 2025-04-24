@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/kalvaanupriya145/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1656-count-good-triplets](https://github.com/kalvaanupriya145/Leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kalvaanupriya145/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/kalvaanupriya145/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2249-count-the-hidden-sequences](https://github.com/kalvaanupriya145/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/kalvaanupriya145/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/kalvaanupriya145/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/kalvaanupriya145/Leetcode/tree/master/0049-group-anagrams) |
 | [0368-largest-divisible-subset](https://github.com/kalvaanupriya145/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/kalvaanupriya145/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kalvaanupriya145/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Two Pointers
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/kalvaanupriya145/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/kalvaanupriya145/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -163,10 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kalvaanupriya145/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/kalvaanupriya145/Leetcode/tree/master/0682-baseball-game) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/kalvaanupriya145/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kalvaanupriya145/Leetcode/tree/master/0496-next-greater-element-i) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/kalvaanupriya145/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 ## Simulation
 |  |
 | ------- |
