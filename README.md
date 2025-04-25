@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kalvaanupriya145/Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/kalvaanupriya145/Leetcode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/kalvaanupriya145/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/kalvaanupriya145/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/kalvaanupriya145/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kalvaanupriya145/Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/kalvaanupriya145/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/kalvaanupriya145/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/kalvaanupriya145/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0797-rabbits-in-forest](https://github.com/kalvaanupriya145/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kalvaanupriya145/Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/kalvaanupriya145/Leetcode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/kalvaanupriya145/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/kalvaanupriya145/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kalvaanupriya145/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kalvaanupriya145/Leetcode/tree/master/0169-majority-element) |
 | [2280-count-good-triplets-in-an-array](https://github.com/kalvaanupriya145/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
@@ -179,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/kalvaanupriya145/Leetcode/tree/master/0682-baseball-game) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kalvaanupriya145/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
