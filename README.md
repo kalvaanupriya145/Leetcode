@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/kalvaanupriya145/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/kalvaanupriya145/Leetcode/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/kalvaanupriya145/Leetcode/tree/master/2050-count-good-numbers) |
 ## Binary Search
 |  |
@@ -214,4 +215,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/kalvaanupriya145/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/kalvaanupriya145/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
