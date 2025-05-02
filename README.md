@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kalvaanupriya145/Leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/kalvaanupriya145/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kalvaanupriya145/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0868-push-dominoes](https://github.com/kalvaanupriya145/Leetcode/tree/master/0868-push-dominoes) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/kalvaanupriya145/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Trie
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kalvaanupriya145/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0868-push-dominoes](https://github.com/kalvaanupriya145/Leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/kalvaanupriya145/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kalvaanupriya145/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Tree
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/kalvaanupriya145/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/kalvaanupriya145/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/kalvaanupriya145/Leetcode/tree/master/0868-push-dominoes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/kalvaanupriya145/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/kalvaanupriya145/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Recursion
